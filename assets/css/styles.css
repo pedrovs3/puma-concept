@@ -195,6 +195,7 @@ footer{
     margin-top: 50px;
     height: 70px;
     background-color: #555555;
+    color: var(--font-color);
 }
 
 footer span{
