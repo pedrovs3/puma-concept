@@ -17,12 +17,12 @@ html{
 
 @font-face {
     font-family: FF DIN;
-    src: url(assets/fonts/DIN.ttf);
+    src: url(/assets/fonts/DIN.ttf);
 }
 
 @font-face {
     font-family: FF DIN BOLD;
-    src: url(assets/css/fonts/DIN Bold.ttf);
+    src: url(/assets/fonts/DIN\ Bold.ttf);
 }
 
 body{
@@ -127,7 +127,7 @@ main{
 }
 
 .banner{
-    background-image: url(assets/img/banner.jpg);
+    background-image: url(/assets/img/banner.jpg);
     height:70vh;
     background-size: cover;
     background-position: center;
