@@ -17,7 +17,7 @@ html{
 
 @font-face {
     font-family: FF DIN;
-    src: url(assets/fonts/DIN.ttf);
+    src: url('assets/fonts/DIN.ttf');
 }
 
 @font-face {
