@@ -22,7 +22,7 @@ html{
 
 @font-face {
     font-family: FF DIN BOLD;
-    src: url(./fonts/DIN\ Bold.ttf);
+    src: url(assets/fonts/DIN\ Bold.ttf);
 }
 
 body{
@@ -127,7 +127,7 @@ main{
 }
 
 .banner{
-    background-image: url(./img/banner.jpg);
+    background-image: url(assets/img/banner.jpg);
     height:70vh;
     background-size: cover;
     background-position: center;
