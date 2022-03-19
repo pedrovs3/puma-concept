@@ -17,12 +17,12 @@ html{
 
 @font-face {
     font-family: FF DIN;
-    src: url(./fonts/DIN.ttf);
+    src: url(https://pedrovs3.github.io/puma-concept/assets/css/assets/fonts/DIN.ttf);
 }
 
 @font-face {
     font-family: FF DIN BOLD;
-    src: url(assets/fonts/DIN\ Bold.ttf);
+    src: url(https://pedrovs3.github.io/puma-concept/assets/css/asset/fonts/DIN%20Bold.ttf);
 }
 
 body{
@@ -127,7 +127,7 @@ main{
 }
 
 .banner{
-    background-image: url(./img/banner.jpg);
+    background-image: url(https://pedrovs3.github.io/puma-concept/assets/css/assets/img/banner.jpg);
     height:70vh;
     background-size: cover;
     background-position: center;
